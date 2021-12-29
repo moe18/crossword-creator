@@ -422,5 +422,4 @@ def xword_matrix_gen(size=None, max_word_len=None, max_black_len=None):
     return xword
 
 
-print(xword_matrix_gen(size=7))
 
